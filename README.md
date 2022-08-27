@@ -1,7 +1,7 @@
-<br />
+# BMW Wiki
 <div align="center">
 
- <h3 align="left">BMW wiki concept</h3>
+ <h3 align="left">Description of the project</h3>
 
   <p align="left">
     A simple and interactive node based BMW car wiki. Select the series you want to know more, and you will get all the cars information ordered with an image of the chassis.
@@ -45,4 +45,8 @@ To test the app install node.js and npm init inside the server directory.<br><br
 [Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Nodejs-url]: https://nodejs.org/it/
 
+# Todo list
 
+* Making a nicer frontend
+* Possibility to add cars via UI
+* Fixing the image async issue (server.js, line 48)
