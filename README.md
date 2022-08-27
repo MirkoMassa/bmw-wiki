@@ -4,9 +4,9 @@
 <br />
 <div align="center">
 
- <h3 align="center">BMW wiki concept</h3>
+ <h3 align="left">BMW wiki concept</h3>
 
-  <p align="center">
+  <p align="left">
     A simple and interactive BMW car wiki. Select the series you want to know more, and you will get all the cars information ordered with an image of the chassis.
     <br>
   </p>
@@ -36,7 +36,7 @@
 ### Built With
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-* Vanilla js
+
 * [![Vue][Vue.js]][Vue-url] (WIP)
 * [![Node][Node.js]][Nodejs-url]
 
