@@ -2,7 +2,6 @@
 <!-- logo-->
 
 <br />
-##title
 <div align="center">
 
  <h3 align="center">BMW wiki concept</h3>
@@ -20,7 +19,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#title">Go back to the title</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -38,13 +36,9 @@
 ### Built With
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+Vanilla js
 * [![Vue][Vue.js]][Vue-url] (WIP)
-* [![Node][Nodejs.js]][Nodejs-url]
+* [![Node][Node.js]][Nodejs-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
