@@ -1,6 +1,3 @@
-##readme-top
-<!-- logo-->
-
 <br />
 <div align="center">
 
