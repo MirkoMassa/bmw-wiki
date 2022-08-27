@@ -4,7 +4,7 @@
  <h3 align="left">BMW wiki concept</h3>
 
   <p align="left">
-    A simple and interactive BMW car wiki. Select the series you want to know more, and you will get all the cars information ordered with an image of the chassis.
+    A simple and interactive node based BMW car wiki. Select the series you want to know more, and you will get all the cars information ordered with an image of the chassis.
     <br>
   </p>
 </div>
