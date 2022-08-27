@@ -36,7 +36,7 @@
 ### Built With
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Vanilla js
+* Vanilla js
 * [![Vue][Vue.js]][Vue-url] (WIP)
 * [![Node][Node.js]][Nodejs-url]
 
