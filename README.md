@@ -35,12 +35,10 @@
 
 ### Built With
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 * [![Vue][Vue.js]][Vue-url] (WIP)
 * [![Node][Node.js]][Nodejs-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
