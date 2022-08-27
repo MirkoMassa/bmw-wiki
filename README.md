@@ -16,16 +16,11 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#How I worked">How I worked</a>
+    </li>
   </ol>
 </details>
 
@@ -36,7 +31,7 @@
 * [![Node][Node.js]][Nodejs-url]
 
 
-### How to install and how I worked
+### How I worked
 
 First of all, I've used xampp for the Apache and mySql servers. <br><br>
 Then added example data to work on. I know that the efficent way could be using a json, but I wanted to "refresh" my mySql skills.<br>
