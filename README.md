@@ -38,7 +38,8 @@
 
 ### How to install and how I worked
 
-First of all, I've used xampp for the Apache and mySql servers. 
+First of all, I've used xampp for the Apache and mySql servers. <br><br>
+Then added example data to work on. I know that the efficent way could be using a json, but I wanted to "refresh" my mySql skills.<br>
 <img src="https://i.imgur.com/Sfg7Kgh.png" align="center">
 
 
