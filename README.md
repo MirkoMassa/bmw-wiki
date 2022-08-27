@@ -9,22 +9,6 @@
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-        <li><a href="#built-with">Built With</a></li>
-    </li>
-    <li>
-      <a href="#How I worked">How I worked</a>
-    </li>
-  </ol>
-</details>
-
-
 ### Built With
 
 * [![Vue][Vue.js]][Vue-url] (WIP)
