@@ -39,7 +39,7 @@
 ### How to install and how I worked
 
 First of all, I've used xampp for the Apache and mySql servers. 
-<a href="https://imgur.com/a/ro8T61p" align="center"> </a>
+<img src="https://imgur.com/a/ro8T61p" align="center">
 
 
 
