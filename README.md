@@ -33,8 +33,9 @@
 
 ### How I worked
 
-First of all, I've used xampp for the Apache and mySql servers. <br><br>
-Then added example data to work on. I know that the efficent way could be using a json, but I wanted to "refresh" my mySql skills.<br>
+First of all, I've used xampp for the Apache and mySql servers.<br><br>
+Then added example data to work on. I know that the efficent way could be using a json, but I wanted to "refresh" my mySql skills. 
+To test the app install node.js and npm init inside the server directory<br><br>
 <img src="https://i.imgur.com/Sfg7Kgh.png" align="center">
 
 
